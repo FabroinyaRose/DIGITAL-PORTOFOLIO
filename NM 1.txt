@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<head>
+<style>
+		.header {
+  			padding: 1px; 
+			text-align: center; 
+ 		 	background: #FFDAB9; 
+  			color: black; 
+		}
+		.text-block {
+  			position: absolute;
+  			bottom: 240px;
+  			right: 300px;
+  			background-color: transprant;
+  			color: red;
+  			padding-left: 20px;
+  			padding-right: 20px;
+		}
+		h1 {
+  			font-size: 45px;
+		}
+		footer {
+  			text-align: center;
+  			padding: 3px;
+ 			background-color:slategrey;
+  			color: white;
+		}
+	</style>
+</head>
+<body >
+<div class="header">
+  <h2 style="text-align:center;">BTS</h2>
+  <h6 style="text-align:cener;">K POP</h6>
+ <a> <h5 style="text-align:center;">HAPPY &emsp;  BANGATAN BOYS &emsp; SOUTH KOREAN BAND &emsp; MOTIVATION &emsp; 7 MEMBERS &emsp; POPULAR &emsp; HYBE ENTERTAINMENT</h5> </a>
+</div>
+<div class="container">
+  <img src="https://people.com/thmb/sQSl8jHALt3PIvnpVV2uUWxB1ew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(599x0:601x2)/BTS_JOIN_LOUIS_VUITTON_AS_HOUSE_AMBASSADORS-a525d86a4d4745dd8ff413cc723c6c7e.jpg" alt="Smiley face" width="1350" height="450">
+  <div class="text-block">
+  </div>
+</diV>
+</body>
+</html>
+
+
+
+
+
+
+
+
